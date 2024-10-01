@@ -1,0 +1,2 @@
+Faker;Encerts:3;Errors:2;Tue Apr 23 12:31:45 CEST 2024
+Keria;Encerts:4;Errors:1;Tue Apr 23 12:32:28 CEST 2024
